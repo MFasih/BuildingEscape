@@ -5,7 +5,7 @@
 # *.[oa]
 # *~
 
-Intermediate/
+*/Intermediate/
 */Binaries/
 */DerivedDataCache/
 */Saved/
