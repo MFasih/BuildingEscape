@@ -10,6 +10,6 @@
 */DerivedDataCache/
 */Saved/
 */Build/
-**/Content/StarterContent/
+**/Content/*/StarterContent/
 
 *.VC.db
