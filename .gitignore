@@ -10,6 +10,7 @@
 */DerivedDataCache/
 **/Saved/
 */Build/
-**/Content/*
+**/Content/StarterContent/Textures
+**/Content/StarterContent/HDRI
 
 *.VC.db
